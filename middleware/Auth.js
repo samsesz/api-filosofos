@@ -29,3 +29,5 @@ const Authorization = (req, res, next) => {
 };
 
 export default { Authorization };
+
+// essa parte aq tem q criar td dos user, tipo os admin do crud
